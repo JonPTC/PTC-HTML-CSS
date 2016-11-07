@@ -1,0 +1,37 @@
+#bld {
+font-weight:500;
+font-family: cursive;
+font-variant: small-caps:
+}
+#jcl{
+font-variant:small-caps;
+}
+.texto20{
+font-size: 20px;
+}
+.texto30{
+font-size: 30px;
+}
+.texto40{
+font-size: 40px;
+}
+.three{
+height: 500 px;
+width: 1348px;
+background-color: #C7C7C7;
+}
+.texto18{
+font-size:18px;
+}
+#botaoAzul{
+	background-color: blue;
+	color: white;
+}
+#botaoAzul2{
+	background-color: blue;
+	color: white;
+}
+#botaoVermelho{
+	background-color: red;
+	color: white;
+}
